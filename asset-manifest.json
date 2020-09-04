@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vattentornet/static/css/main.6817d638.chunk.css",
-    "main.js": "/vattentornet/static/js/main.5a4d7f07.chunk.js",
-    "main.js.map": "/vattentornet/static/js/main.5a4d7f07.chunk.js.map",
+    "main.css": "/vattentornet/static/css/main.952b0d07.chunk.css",
+    "main.js": "/vattentornet/static/js/main.747d48f1.chunk.js",
+    "main.js.map": "/vattentornet/static/js/main.747d48f1.chunk.js.map",
     "runtime-main.js": "/vattentornet/static/js/runtime-main.21139fd2.js",
     "runtime-main.js.map": "/vattentornet/static/js/runtime-main.21139fd2.js.map",
     "static/js/2.7142948c.chunk.js": "/vattentornet/static/js/2.7142948c.chunk.js",
     "static/js/2.7142948c.chunk.js.map": "/vattentornet/static/js/2.7142948c.chunk.js.map",
     "index.html": "/vattentornet/index.html",
-    "precache-manifest.7d4c641509ee11d43ea7855db36be552.js": "/vattentornet/precache-manifest.7d4c641509ee11d43ea7855db36be552.js",
+    "precache-manifest.ebb374f4bcb1f030b528589e39510abc.js": "/vattentornet/precache-manifest.ebb374f4bcb1f030b528589e39510abc.js",
     "service-worker.js": "/vattentornet/service-worker.js",
-    "static/css/main.6817d638.chunk.css.map": "/vattentornet/static/css/main.6817d638.chunk.css.map",
+    "static/css/main.952b0d07.chunk.css.map": "/vattentornet/static/css/main.952b0d07.chunk.css.map",
     "static/js/2.7142948c.chunk.js.LICENSE.txt": "/vattentornet/static/js/2.7142948c.chunk.js.LICENSE.txt",
     "static/media/tornet.png": "/vattentornet/static/media/tornet.56f07c1c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21139fd2.js",
     "static/js/2.7142948c.chunk.js",
-    "static/css/main.6817d638.chunk.css",
-    "static/js/main.5a4d7f07.chunk.js"
+    "static/css/main.952b0d07.chunk.css",
+    "static/js/main.747d48f1.chunk.js"
   ]
 }

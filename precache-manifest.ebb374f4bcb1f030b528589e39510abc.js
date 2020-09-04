@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00211f61efd9c4233fa6e97761206d05",
+    "revision": "28a87216b0258be6eb8206c8c784a681",
     "url": "/vattentornet/index.html"
   },
   {
-    "revision": "4090c06dc6f245954274",
-    "url": "/vattentornet/static/css/main.6817d638.chunk.css"
+    "revision": "f50929a725db94f100b2",
+    "url": "/vattentornet/static/css/main.952b0d07.chunk.css"
   },
   {
     "revision": "7bdfa98e6a0726c55d3a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vattentornet/static/js/2.7142948c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4090c06dc6f245954274",
-    "url": "/vattentornet/static/js/main.5a4d7f07.chunk.js"
+    "revision": "f50929a725db94f100b2",
+    "url": "/vattentornet/static/js/main.747d48f1.chunk.js"
   },
   {
     "revision": "d43bc295e4c740a60a4d",

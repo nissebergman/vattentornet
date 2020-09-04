@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vattentornet/precache-manifest.7d4c641509ee11d43ea7855db36be552.js"
+  "/vattentornet/precache-manifest.ebb374f4bcb1f030b528589e39510abc.js"
 );
 
 self.addEventListener('message', (event) => {
